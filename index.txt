@@ -10,7 +10,7 @@
 </head>
 
 <body>
-	<h1><tr><td align="center">東京美食</td></tr></h1>
+	<h1>123</h1>
 	<h3></h3>
 </body>
 
